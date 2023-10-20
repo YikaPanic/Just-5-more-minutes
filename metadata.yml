@@ -1,0 +1,31 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-circlegod
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: circlegod
+TeamMembers:
+  - Name: Haoxuan Ying
+    Email: haying@student.unimelb.edu.au
+  - Name: Ling Bao
+    Email: libao@student.unimelb.edu.au
+  - Name: Jingxuan Liu
+    Email: jingxuanl6@student.unimelb.edu.au
+  - Name: Zeyue Xu
+    Email: zeyue@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Just 5 More Minutes
+GameBlurb: Just 5 More Minutes is a 2.5D action roguelike game. Players will assume the role of the Chief Archmage of the Italian Mage Association, who inadvertently triggers a world-scale catastrophe in their quest to resurrect a beloved person. Players must endure for 5 minutes amidst waves of monsters to complete the ritual of reviving their loved one.The game draws inspiration from the "Hades" and the "OPUS" game series. It incorporates the unique growing mechanics of "Hades" deviating from the traditional roguelike model. Meanwhile, its narrative and background story are influenced by the "OPUS" game series. The game is targeted towards a general audience of gamers and doesn't cater to a specific group, making it suitable for players of all ages. Players can range from seasoned roguelike enthusiasts who enjoy experimenting with different gameplay mechanics to newcomers who have never experienced a roguelike game before.
+
+# Milestone 2 entries
+GameplayVideo: https://youtu.be/GiAR2QCiv7A
